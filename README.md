@@ -20,15 +20,9 @@ This account is currently being used for **testing public repositories**, experi
 Git • GitHub • Markdown • VS Code
 ```
 
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nitishgatcli-create\&show_icons=true\&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
-* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/nitishgatcli-create)
+* GitHub: [https://github.com/nitishgatcli-create](https://github.com/nitishgatcli-create)
 
 ---
 
